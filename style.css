@@ -1,10 +1,9 @@
 body {
   position: absolute;
-  top: 50%;
-  left: 10%;
-  right: 10%;
+  top: 25%;
+  left: 5%;
+  right: 5%;
   margin-top: -50px;
-  margin-left: -50px;
 }
 
 .sidebar {
@@ -17,8 +16,8 @@ body {
 }
 
 .profile {
-  width: 100px;
-  height: 100px;
+  width: 123px;
+  height: 119px;
   display: block;
   margin-left: auto;
   margin-right: auto;
