@@ -1,0 +1,26 @@
+body {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  right: 10%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.sidebar {
+  float: right;
+
+}
+
+.content {
+  margin-right: 25%;
+}
+
+.profile {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
