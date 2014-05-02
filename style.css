@@ -120,9 +120,13 @@ a {
 }
 
 .user {
+<<<<<<< HEAD
   margin-left: 5px
   font-size: 20px;
   color: rgb(32, 32, 32);
+=======
+  padding-right: 25%
+>>>>>>> f94eabeb41f1d04eead253e4bd65774fc5d35ff5
 }
 
 .tags {
