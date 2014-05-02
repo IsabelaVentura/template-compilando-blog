@@ -100,3 +100,16 @@ h2 {
 .user {
   padding-right: 25%
 }
+
+.tags {
+  width: 250px
+}
+
+.tags ul {
+  margin-top: 10px
+}
+
+.tags ul li {
+  margin: 0px;
+  line-height: 30px;
+}
